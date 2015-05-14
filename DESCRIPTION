@@ -1,0 +1,13 @@
+Package: spatialtalk
+Type: Package
+Title: Packaged spatial methods
+Version: 1.0
+Date: 2015-05-12
+Author: James J Balamuta
+Maintainer: James J Balamuta
+      <balamut2@illinois.edu>
+Description: Tapering and kriging
+License: file + MIT
+Imports: Rcpp (>= 0.11.6)
+Depends: fields, spam
+LinkingTo: Rcpp, RcppArmadillo, RcppEigen
